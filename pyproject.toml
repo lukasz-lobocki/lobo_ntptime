@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lobo_ntptime"
-version = "0.2.3"
+version = "0.3.0"
 description = "Reads time from internet server."
 authors = ["Lukasz Lobocki"]
 license = "CC0 v1.0 Universal"
